@@ -13,8 +13,10 @@ as Frontend Web Developer
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F6A032)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)

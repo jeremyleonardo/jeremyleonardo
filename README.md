@@ -29,6 +29,9 @@ as Frontend Web Developer
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=ffffff)
+
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000000?style=flat&logo=insomnia)

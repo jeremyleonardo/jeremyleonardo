@@ -2,8 +2,8 @@
 
 I'm a computer science student with more than a year of experience working in the industry.
 
-![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremy-leonardo)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-leonardo&layout=compact)
+![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremyleonardo)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyleonardo&layout=compact)
 
 ### Technologies
 

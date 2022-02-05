@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremy 👋
 
-I'm a computer science student with more than a year of experience working in the industry.
+I'm a computer science student with years of experience working in the industry.
 
 ### Technologies
 

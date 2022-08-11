@@ -1,17 +1,12 @@
 ### Hi, I'm Jeremy 👋
 
-I'm a computer science student with years of experience working in the industry.
+I'm a Software Engineer with years of experience working in the industry.
 
-### Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F6A032)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
